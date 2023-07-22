@@ -5,10 +5,7 @@
 ##  📌 This repository is created under  Future Ready Talent
 
 ## To run this website  click on this link below <br><br>
-### Spheron : https://vote-web3-5tpcov.spheron.app/
-
-### Ipfs : https://spheron.infura-ipfs.io/ipfs/QmVAfnCjKVoKP9FQbRgmoRkPZFVxpe2B9gDh2UFtaWSitF
-<br> 
+### Azure Link : https://calm-bay-01b024210.3.azurestaticapps.net/
 
 #  About Vote_web3 
 
