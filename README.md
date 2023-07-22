@@ -2,7 +2,7 @@
 #  <p align = "center"> Blockchain-based E-voting System </p>
 <br>
 
-##  📌 This repository is created under  H2S Hackathon
+##  📌 This repository is created under  Future Ready Talent
 
 ## To run this website  click on this link below <br><br>
 ### Spheron : https://vote-web3-5tpcov.spheron.app/
