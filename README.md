@@ -21,12 +21,6 @@
 
 ## **Working Video 📹**
 
-https://github.com/Vikash-8090-Yadav/Future.WebNet/assets/114330097/80adb9d8-4589-42ac-8648-a61c93834037
-
-<br>
-
-## **Working Video 📹**
-
 
 
 https://github.com/prince783/ScholarTodo/assets/108627671/d7556690-5aea-4588-a2db-1f3b51d6d646
