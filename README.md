@@ -1,4 +1,4 @@
-# MyGym Website
+# Scholar Todo
 <br>
 
 ## **Tech Stack 🎮**
