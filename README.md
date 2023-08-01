@@ -15,19 +15,19 @@ The core idea of the project is to develop a user-friendly to-do application tha
 
 The to-do application aims to solve the problem of disorganization and inefficiency in managing tasks and activities for individuals. Many people struggle to keep track of their daily, weekly, or long-term tasks, leading to missed deadlines, increased stress, and reduced productivity.
 
-# Project Decscription
+# Project Description
 
 
 The core idea of the project is to develop a user-friendly to-do application that addresses the problem of disorganization and inefficiency in managing tasks and activities. The application aims to provide a comprehensive solution for individuals to prioritize, monitor, and track their tasks effectively, promoting improved productivity, reduced stress, and enhanced work-life balance.
 
-The core functionalities of the application directly address the problem statement by enabling users to prioritize tasks, set reminders, visualize progress, and collaborate with others. These features collectively provide a clear solution to the challenges posed by disorganization and inefficiency in task management, fulfilling the opportunity area of enhancing productivity, reducing stress, and promoting work-life balance.
+The core functionalities of the application directly addresses the problem statement by enabling users to prioritize tasks, set reminders, visualize progress, and collaborate with others. These features collectively provide a clear solution to the challenges posed by disorganization and inefficiency in task management, fulfilling the opportunity area of enhancing productivity, reducing stress, and promoting work-life balance.
 The proposed to-do application will offer the following key features to tackle the problem effectively:
 
 1. Task Creation and Categorization: Users can create tasks easily and categorize them based on different criteria, such as work, personal, or project-related tasks. The application will provide a simple interface to input task details, including due dates and priority levels.
 
 2. Priority Settings: To enhance productivity, the application will allow users to set task priorities, enabling them to focus on critical activities first and avoid feeling overwhelmed by the sheer number of tasks. Users can organize tasks based on urgency and importance.
 
-The purpose of the to-do application project is to provide an effective and intuitive solution to the identified problem of task management inefficiency. By offering a user-friendly interface and a robust set of features, the application aims to fulfill the need for an organized and focused lifestyle
+The purpose of the to-do application project is to provide an effective and intuitive solution to the identified problem of task management inefficiency. By offering a user-friendly interface and a robust set of features, the application aims to fulfil the need for an organized and focused lifestyle
 
 
 
@@ -73,5 +73,5 @@ https://github.com/prince783/ScholarTodo/assets/108627671/d7556690-5aea-4588-a2d
 
 <br>
 
-### Thanks for using this project !
+### Thanks for using this project!
 
