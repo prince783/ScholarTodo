@@ -21,11 +21,22 @@ The to-do application aims to solve the problem of disorganization and inefficie
 The core idea of the project is to develop a user-friendly to-do application that addresses the problem of disorganization and inefficiency in managing tasks and activities. The application aims to provide a comprehensive solution for individuals to prioritize, monitor, and track their tasks effectively, promoting improved productivity, reduced stress, and enhanced work-life balance.
 
 The core functionalities of the application directly addresses the problem statement by enabling users to prioritize tasks, set reminders, visualize progress, and collaborate with others. These features collectively provide a clear solution to the challenges posed by disorganization and inefficiency in task management, fulfilling the opportunity area of enhancing productivity, reducing stress, and promoting work-life balance.
-The proposed to-do application will offer the following key features to tackle the problem effectively:
+
+## The proposed to-do application will offer the following key features to tackle the problem effectively:
 
 1. Task Creation and Categorization: Users can create tasks easily and categorize them based on different criteria, such as work, personal, or project-related tasks. The application will provide a simple interface to input task details, including due dates and priority levels.
 
 2. Priority Settings: To enhance productivity, the application will allow users to set task priorities, enabling them to focus on critical activities first and avoid feeling overwhelmed by the sheer number of tasks. Users can organize tasks based on urgency and importance.
+
+3. Due Date Reminders: Users can set due dates for tasks and receive timely reminders to ensure they stay on top of their commitments.
+
+4. Task Visualization: The application will provide visual representations, such as charts or graphs, to offer users a comprehensive overview of their progress and accomplishments.
+
+5. Cross-Platform Compatibility: The solution will be accessible across multiple devices and platforms, enabling users to manage their tasks seamlessly.
+
+5. Collaboration Options: For individuals working in teams or coordinating tasks with others, the application will support collaboration features, allowing users to share tasks and progress updates with team members.
+
+ 
 
 The purpose of the to-do application project is to provide an effective and intuitive solution to the identified problem of task management inefficiency. By offering a user-friendly interface and a robust set of features, the application aims to fulfil the need for an organized and focused lifestyle
 
@@ -45,7 +56,7 @@ The purpose of the to-do application project is to provide an effective and intu
 # TO DO completed
 ![Screenshot from 2023-08-01 11-37-15](https://github.com/prince783/ScholarTodo/assets/108627671/7e415f21-97fb-4704-b59b-036379f35b40)
 
-#TO DO Deleted
+# TO DO Deleted
 ![Screenshot from 2023-08-01 11-37-45](https://github.com/prince783/ScholarTodo/assets/108627671/7e196da1-d33f-426a-9895-98084db544ec)
 
 
