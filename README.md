@@ -1,7 +1,4 @@
 # MyGym Website
-
---- 
-
 <br>
 
 ## **Tech Stack 🎮**
